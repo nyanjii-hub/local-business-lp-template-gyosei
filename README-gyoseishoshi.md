@@ -54,6 +54,11 @@ https://www.google.com/maps?q=東京都中央区銀座1-2-3&output=embed
 
 MIT License
 
+## Related Templates
+
+- [美容院向けLPテンプレート](https://github.com/nyanjii-hub/local-business-lp-template)
+- [整体院向けLPテンプレート](https://github.com/nyanjii-hub/local-business-lp-template-seitai)
+
 ## Created with
 
 ChatGPT / Claude Code / Codex などのAI開発支援ツールを活用して作成・改善できます。
