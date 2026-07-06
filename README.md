@@ -10,7 +10,7 @@
 
 ## Demo
 
-TODO: 公開URLを追加
+https://local-business-lp-template-gyosei.vercel.app/
 
 ## Screenshots
 
