@@ -14,7 +14,13 @@ TODO: 公開URLを追加
 
 ## Screenshots
 
-TODO: スクリーンショットを追加
+### Desktop
+
+![Desktop Screenshot](./public/screenshots/desktop.png)
+
+### Mobile
+
+![Mobile Screenshot](./public/screenshots/mobile.png)
 
 ## Project Goal
 
